@@ -9,3 +9,7 @@ obj/
 *.sln.docstates
 .vscode/
 *.log
+# Node/React outputs
+node_modules/
+client/node_modules/
+client/build/
